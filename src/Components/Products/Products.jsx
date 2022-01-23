@@ -19,18 +19,18 @@ import Footer from "../Footer/Footer";
 import Navbar from "../Navbar/Navbar";
 export default function Products(props) {
   const [imgsArr, setimgsArr] = useState([
-    { img: img1, title: "اكتب الصورة 1" },
-    { img: img2, title: "اكتب الصورة 2" },
-    { img: img3, title: "اكتب الصورة 3" },
-    { img: img4, title: "اكتب الصورة 4" },
-    { img: img5, title: "اكتب الصورة 5" },
-    { img: img6, title: "اكتب الصورة 6" },
-    { img: img7, title: "اكتب الصورة 7" },
-    { img: img8, title: "اكتب الصورة 8" },
-    { img: img9, title: "اكتب الصورة 9" },
-    { img: img10, title: "اكتب الصورة 10" },
-    { img: img11, title: "اكتب الصورة 11" },
-    { img: img12, title: "اكتب الصورة 12" },
+    { img: img1, title: "(Mineral) is a natural compound formed during geological processes. The word refers not only to the chemical com." },
+    { img: img2, title: "Processing various metals including copper and aluminum If you need graphics with a resolution of 0.01 mm or more" },
+    { img: img3, title: "Mineral can be defined as a solid and inorganic substance found naturally in the earth, with a distinctive chemimestry..." },
+    { img: img4, title: "It controls many of the natural properties of a mineral such as hardness, scratchiness, specific weight, and color.........." },
+    { img: img5, title: "Carbon is found in nature in the form of diamond, which is the hardest known mineral. It is also found in the fo." },
+    { img: img6, title: "Gases take many forms as they can consist of one atom such as neon and noble gases or consist of two united atom." },
+    { img: img7, title: "LPG is very important, especially in the summer, as it is used in barbecue and is considered a real savior in so " },
+    { img: img8, title: " This technology allows cutting metals with a thickness of up to 80 mm and more. The materials may be stone, glas" },
+    { img: img9, title: "Toxic gases are considered gases that cause very great harm when inhaled or even when people are exposed to  " },
+    { img: img10, title: " It controls many of the natural properties of a mineral such as hardness, scratchiness, specific weight, and co" },
+    { img: img11, title: " This technology allows cutting metals with a thickness of up to 80 mm and more. The materials may be stone, gla" },
+    { img: img12, title: " Carbon is found in nature in the form of diamond, which is the hardest known mineral. It is also found in the ." },
   ]);
   return (
     <>
